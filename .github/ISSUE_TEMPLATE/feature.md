@@ -1,7 +1,7 @@
 ---
-name: Feature request
+name: Feature
 about: Suggest an idea for this project
-title: ''
+title: "[FEATURE]"
 labels: ''
 assignees: ''
 
