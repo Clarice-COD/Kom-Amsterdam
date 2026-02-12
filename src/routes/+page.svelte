@@ -4,6 +4,7 @@
   
   <ul>
     {#each data.products as product}
-      <li>{product.product_name}</li>
+        <img src="{product.product_image_1}" height="200px">
+        <li>{product.product_name}</li>
     {/each}
   </ul>
